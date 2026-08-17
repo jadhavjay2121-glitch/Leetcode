@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/jadhavjay2121-glitch/Leetcode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/jadhavjay2121-glitch/Leetcode/tree/master/0035-search-insert-position) |
+| [0169-majority-element](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/jadhavjay2121-glitch/Leetcode/tree/master/0217-contains-duplicate) |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -15,12 +16,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/jadhavjay2121-glitch/Leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/jadhavjay2121-glitch/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/jadhavjay2121-glitch/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 ## Math
@@ -52,5 +55,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0169-majority-element/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
