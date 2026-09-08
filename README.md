@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/jadhavjay2121-glitch/Leetcode/tree/master/0035-search-insert-position) |
 | [0169-majority-element](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/jadhavjay2121-glitch/Leetcode/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0202-happy-number/) | Easy |
+| [0283-move-zeroes](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/jadhavjay2121-glitch/Leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## String
