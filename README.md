@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/jadhavjay2121-glitch/Leetcode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0035-search-insert-position](https://github.com/jadhavjay2121-glitch/Leetcode/tree/master/0035-search-insert-position) |
 | [0169-majority-element](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/jadhavjay2121-glitch/Leetcode/tree/master/0217-contains-duplicate) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0202-happy-number](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/jadhavjay2121-glitch/Leetcode/tree/master/0344-reverse-string) |
