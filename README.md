@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0912-sort-an-array](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0912-sort-an-array/) | Medium |
+| [1470-shuffle-the-array](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/1470-shuffle-the-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
