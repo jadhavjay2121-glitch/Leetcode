@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/jadhavjay2121-glitch/Leetcode/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0263-ugly-number/) | Easy |
 | [0326-power-of-three](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0326-power-of-three/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
