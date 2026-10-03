@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0912-sort-an-array](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [1470-shuffle-the-array](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/1470-shuffle-the-array/) | Easy |
 ## Binary Search
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0264-ugly-number-ii/) | Medium |
 | [0268-missing-number](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0383-ransom-note](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0389-find-the-difference/) | Easy |
@@ -50,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0389-find-the-difference](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0912-sort-an-array](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 ## Math
@@ -91,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/jadhavjay2121-glitch/Leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
