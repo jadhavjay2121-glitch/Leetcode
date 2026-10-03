@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/jadhavjay2121-glitch/Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0075-sort-colors/) | Medium |
+| [0136-single-number](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/jadhavjay2121-glitch/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0283-move-zeroes/) | Easy |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0231-power-of-two](https://github.com/jadhavjay2121-glitch/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0342-power-of-four/) | Easy |
 | [0389-find-the-difference](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0389-find-the-difference/) | Easy |
