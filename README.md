@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/jadhavjay2121-glitch/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0912-sort-an-array](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0912-sort-an-array/) | Medium |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/jadhavjay2121-glitch/Leetcode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0268-missing-number](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/jadhavjay2121-glitch/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0264-ugly-number-ii](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0264-ugly-number-ii/) | Medium |
+| [0268-missing-number](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0383-ransom-note](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -43,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/jadhavjay2121-glitch/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0389-find-the-difference](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0912-sort-an-array](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0912-sort-an-array/) | Medium |
@@ -55,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/jadhavjay2121-glitch/Leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0263-ugly-number/) | Easy |
 | [0264-ugly-number-ii](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0264-ugly-number-ii/) | Medium |
+| [0268-missing-number](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0326-power-of-three](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0342-power-of-four/) | Easy |
 ## Bit Manipulation
@@ -62,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0136-single-number](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0231-power-of-two](https://github.com/jadhavjay2121-glitch/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0342-power-of-four/) | Easy |
 | [0389-find-the-difference](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 ## Recursion
