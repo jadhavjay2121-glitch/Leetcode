@@ -53,16 +53,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0263-ugly-number/) | Easy |
 | [0264-ugly-number-ii](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0264-ugly-number-ii/) | Medium |
 | [0326-power-of-three](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0326-power-of-three/) | Easy |
+| [0342-power-of-four](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0342-power-of-four/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/jadhavjay2121-glitch/Leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0342-power-of-four/) | Easy |
 | [0389-find-the-difference](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/jadhavjay2121-glitch/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0326-power-of-three/) | Easy |
+| [0342-power-of-four](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0342-power-of-four/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
