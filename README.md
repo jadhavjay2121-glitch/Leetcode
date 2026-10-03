@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0263-ugly-number/) | Easy |
 | [0264-ugly-number-ii](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0264-ugly-number-ii/) | Medium |
 | [0268-missing-number](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0292-nim-game](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0292-nim-game/) | Easy |
 | [0326-power-of-three](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0342-power-of-four/) | Easy |
 ## Bit Manipulation
@@ -174,4 +175,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0292-nim-game/) | Easy |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0292-nim-game/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0292-nim-game/) | Easy |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0292-nim-game/) | Easy |
+## Impartial Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0292-nim-game/) | Easy |
 <!---LeetCode Topics End-->
