@@ -200,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0292-nim-game/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0584-find-customer-referee](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0584-find-customer-referee/) | Easy |
 <!---LeetCode Topics End-->
