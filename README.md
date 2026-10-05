@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0912-sort-an-array](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [1470-shuffle-the-array](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/1470-shuffle-the-array/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -213,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-invalid-tweets](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1873-calculate-special-bonus](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/1873-calculate-special-bonus/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 <!---LeetCode Topics End-->
