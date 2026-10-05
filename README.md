@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/1920-build-array-from-permutation/) | Easy |
+| [1929-concatenation-of-array](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -223,4 +224,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1920-build-array-from-permutation](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/1920-build-array-from-permutation/) | Easy |
+| [1929-concatenation-of-array](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 <!---LeetCode Topics End-->
