@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0912-sort-an-array](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1470-shuffle-the-array](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/1920-build-array-from-permutation/) | Easy |
