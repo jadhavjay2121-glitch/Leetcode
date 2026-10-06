@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0342-power-of-four/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [2469-convert-the-temperature](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/2469-convert-the-temperature/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
