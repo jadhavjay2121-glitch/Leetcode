@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0389-find-the-difference/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -229,4 +231,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1920-build-array-from-permutation](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 <!---LeetCode Topics End-->
