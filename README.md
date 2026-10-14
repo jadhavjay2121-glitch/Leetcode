@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0176-second-highest-salary](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0176-second-highest-salary/) | Medium |
 | [0177-nth-highest-salary](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0177-nth-highest-salary/) | Medium |
+| [0181-employees-earning-more-than-their-managers](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0183-customers-who-never-order](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0183-customers-who-never-order/) | Easy |
 | [0184-department-highest-salary](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0184-department-highest-salary/) | Medium |
 | [0196-delete-duplicate-emails](https://github.com/jadhavjay2121-glitch/Leetcode/tree/main/0196-delete-duplicate-emails/) | Easy |
